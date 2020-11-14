@@ -63,6 +63,7 @@ body{
 
 .group:nth-child(1){
     min-height:19rem;
+    margin-bottom: 30px;
 }
 
 .instagran-logo  {
@@ -107,3 +108,11 @@ body{
     color: #0095f6;
 }
 
+.get-the-app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 2rem 0;
+}
