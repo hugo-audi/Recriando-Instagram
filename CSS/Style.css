@@ -62,10 +62,23 @@ body{
 }
 
 .group:nth-child(1){
-    min-height:rem;
+    min-height:19rem;
 }
+
 .instagran-logo  {
     height: 7rem;
     padding-bottom: 5px;
     border-radius: 25px
+}
+
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    aling-itens:center;
+    border-radius: 50%;
+    overflow: hidden;
+ }
+ .profile-photo img{
+    height: 20rem;
+    width: 20rem;
 }
