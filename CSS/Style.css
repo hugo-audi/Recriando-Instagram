@@ -16,3 +16,10 @@ body{
     display: flex;
     justify-content: center;
 }
+.instagram-wraper{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100%;
+}
