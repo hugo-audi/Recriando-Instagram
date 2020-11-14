@@ -58,5 +58,9 @@ body{
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem;
-    border: 1px solid lightgray;
+    border: 3px solid lightgray;
+}
+
+.group:nth-child(1){
+    min-height:rem;
 }
