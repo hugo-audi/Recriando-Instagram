@@ -100,6 +100,10 @@ body{
 }
 
 .not-account {
-    colo
+    color: rgb(160, 160, 160);
+}
+
+.link-blue {
+    color: #0095f6;
 }
 
