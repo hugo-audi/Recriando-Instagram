@@ -64,3 +64,8 @@ body{
 .group:nth-child(1){
     min-height:rem;
 }
+.instagran-logo  {
+    height: 7rem;
+    padding-bottom: 5px;
+    border-radius: 25px
+}
