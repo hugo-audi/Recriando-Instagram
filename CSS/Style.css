@@ -68,7 +68,8 @@ body{
 .instagran-logo  {
     height: 7rem;
     padding-bottom: 5px;
-    border-radius: 25px
+    border-radius: 25px;
+    margin-bottom: 25px;
 }
 
 .profile-photo{
@@ -77,8 +78,19 @@ body{
     aling-itens:center;
     border-radius: 50%;
     overflow: hidden;
+    margin-bottom: 30px;
  }
+
  .profile-photo img{
     height: 20rem;
     width: 20rem;
 }
+
+.instagram-login {
+    background-color: lightseagreen;
+    color: #ffffff;
+    padding: 7px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
